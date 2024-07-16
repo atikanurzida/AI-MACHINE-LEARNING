@@ -1,1 +1,2 @@
-# AI-ML-for-Prediction-Students-Scores
+# Linier Regression & Decision Tree
+
