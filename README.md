@@ -51,6 +51,14 @@ where _**A**_ is feature, _**Sv**_ is subset from _**S**_ for feature _**v**_
 
 
 
+#### **Conclusion**
+
+Based on the comparison of the two models, the decision tree model compared with the linear regression model, **it is recommended to use the linear regression model** because the R squared value is higher than the decision tree.
+
+
+_**Why is it better to use Linear Regression?**_
+Because in this case, the data is linear and not complex. Linear correlated data indicates that when students spend more time studying, the students' grades are higher. conversely, if the student's study time is short, the student's score will be lower.
+
 
 
 
